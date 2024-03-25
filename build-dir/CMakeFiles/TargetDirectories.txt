@@ -1,3 +1,0 @@
-/mnt/c/Users/ntaumergenov/Projects/c_malloc/build-dir/CMakeFiles/c_malloc.dir
-/mnt/c/Users/ntaumergenov/Projects/c_malloc/build-dir/CMakeFiles/edit_cache.dir
-/mnt/c/Users/ntaumergenov/Projects/c_malloc/build-dir/CMakeFiles/rebuild_cache.dir

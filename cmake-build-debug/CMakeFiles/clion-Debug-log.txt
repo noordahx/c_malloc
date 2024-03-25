@@ -1,2 +1,0 @@
-C:\windows\system32\wsl.exe --distribution Ubuntu-22.04 --exec /usr/bin/zsh -c "export CMAKE_COLOR_DIAGNOSTICS=ON && export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd /mnt/c/Users/ntaumergenov/Projects/c_malloc/cmake-build-debug && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' /mnt/c/Users/ntaumergenov/Projects/c_malloc"
-zsh:1: no such file or directory: /usr/bin/cmake
